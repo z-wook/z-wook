@@ -46,8 +46,7 @@
   ## 📈 GitHub Stats
   <div align="center">
    
-   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
    [![Han’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z-wook&show_icons=true&theme=dracula)](https://github.com/oasis444/github-readme-stats)
   
 </div>

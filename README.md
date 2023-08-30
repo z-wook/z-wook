@@ -34,12 +34,13 @@ I am learing `SwiftUI`, `RxSwift` <br>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a> -->
 <br/>
 <br/>
 </div>
@@ -48,10 +49,10 @@ I am learing `SwiftUI`, `RxSwift` <br>
 ## 📈 GitHub Stats
 <div align="center">
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
-   
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Han’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z-wook&show_icons=true&theme=dracula)](https://github.com/oasis444/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Han’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z-wook&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 </div>

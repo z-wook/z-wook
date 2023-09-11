@@ -3,7 +3,8 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    # 6시간마다 한 번(수정 가능)
+    - cron: "0 */6 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:

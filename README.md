@@ -8,10 +8,10 @@
 <br>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=B897FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello+I'm++iOS+Developer+Hanjiwook)](https://git.io/typing-svg)
- 
+
 I'm currently using `UIKit`, `Combine` <br>
 I am learing `SwiftUI`, `RxSwift` <br>
- 
+
 <br>
   
 ## 🛠 Tech Stack 🛠
@@ -50,9 +50,13 @@ I am learing `SwiftUI`, `RxSwift` <br>
 <div align="center">
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
- 
+
+![Snake animation](https://github.com/z-wook/z-wook/blob/output/github-contribution-grid-snake.svg)
+
+<br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Han’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z-wook&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Han’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z-wook&show_icons=true&theme=dracula)
   
 </div>
 </div>

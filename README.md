@@ -49,12 +49,13 @@ I am learing `SwiftUI`, `RxSwift` <br>
 ## 📈 GitHub Stats
 <div align="center">
  <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
+ <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
  <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
  
  ![Snake animation](https://github.com/z-wook/z-wook/blob/output/github-contribution-grid-snake-dark.svg)
  <br><br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&langs_count=4&hide=CMake&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  ![Han’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z-wook&show_icons=true&theme=dracula)
  
  </div>

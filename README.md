@@ -61,6 +61,11 @@ I am learing `SwiftUI`, `RxSwift` <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&hide=CMake&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=000&text_color=00)](https://github.com/anuraghazra/github-readme-stats)
   ![Han’s GitHub stats](https://github-readme-stats.vercel.app/api?username=z-wook&count_private=true&custom_title=Han’s&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=000&text_color=00)
 
- 
  </div>
+ <br>
+ 
+ ## 📝 Blog 
+ 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oasis444)](https://velog.io/@oasis444)
+
 </div>

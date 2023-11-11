@@ -14,7 +14,7 @@ I am learing `SwiftUI`, `RxSwift` <br>
 
 <br>
   
-## 🛠 Tech Stack 🛠
+## 📚 Tech Stack 📚
 <div align="center">
 <img height="100" src="https://user-images.githubusercontent.com/50406861/201713355-a788da3c-58aa-415f-9a0c-3980cea3216c.png"/>
 <img height="96" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"/>
@@ -45,6 +45,7 @@ I am learing `SwiftUI`, `RxSwift` <br>
  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
 <br>
 
@@ -57,7 +58,6 @@ I am learing `SwiftUI`, `RxSwift` <br>
 
 ### 🎯 Communication 🎯
 <p align="center">
- <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>

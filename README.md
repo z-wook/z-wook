@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome+to+Han's+GitHub!+👋&fontSize=45&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome+to+Han's+GitHub!+👋🏻&fontSize=45&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
 <div align="left">
  
@@ -77,18 +77,21 @@ I am learing `SwiftUI`, `RxSwift` <br>
  <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&hide=CMake&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
  <!--- ![Han’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=z-wook&show_icons=true&theme=dracula) --->
 
- ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=z-wook&theme=dracula)
+ ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=z-wook&theme=dracula)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-wook&hide=CMake&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=000&text_color=00)](https://github.com/anuraghazra/github-readme-stats)
  ![Han’s GitHub stats](https://github-readme-stats.vercel.app/api?username=z-wook&count_private=true&custom_title=Han’s&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=000&text_color=00)
  <br>
  
- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=z-wook&theme=dracula)
-
+ ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=z-wook&theme=dracula)
+ <br>
+ 
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
  </div>
  <br>
  
  ## 📝 Blog 
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oasis444)](https://velog.io/@oasis444)
- 
+
 </div>

@@ -7,7 +7,7 @@
  
 <br>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=B897FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello+I'm++iOS+Developer+Jiwook)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=B897FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello+I'm+iOS+Developer+Jiwook)](https://git.io/typing-svg)
 
 I'm currently using `UIKit`, `Combine` <br>
 I am learing `SwiftUI`, `RxSwift` <br>

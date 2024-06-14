@@ -101,3 +101,13 @@ I am learing `SwiftUI`, `RxSwift` <br>
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oasis444)](https://velog.io/@oasis444)
 
 </div>
+
+---
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/z-wook"
+  width="600"
+  height="300"
+/>
+</a>
